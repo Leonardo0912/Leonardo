@@ -30,11 +30,13 @@ title: Home
 
     <p>
         {% if post.customexcerpt %}
-            {{post.customexcerpt | strip_html | truncatewords:45}}
+            {{post.customexcerpt | strip_html | truncatewords:45}
+            <span class = "continue-reading"><a href="{{ post.url | relative_url }}">more </a></span>}
         {% else %}
-            {{ post.content | strip_html | truncatewords:45 }}
+            {{ post.content | strip_html | truncatewords:45 }
+            <span class = "continue-reading"><a href="{{ post.url | relative_url }}">more </a></span>}
+        
         {% endif %}
-        <span class = "continue-reading"><a href="{{ post.url | relative_url }}">more </a></span>
     </p> 
 </div>
 {% endfor %}
