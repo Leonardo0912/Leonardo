@@ -52,5 +52,4 @@ sass:
   style: compressed
   sourcemap: never
   
-#add  
 theme: jekyll-yamt
