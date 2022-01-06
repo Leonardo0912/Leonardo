@@ -2,7 +2,7 @@
 title: Profile
 description: "I like Hip-Hop"
 url:  "https://Leonardo.github.io/" # Actual base url of the website
-baseurl: "Leonardo.github.io/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
+baseurl: "jekyll"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Leonardo"
   email: "ch01224.park@samsung.com"
