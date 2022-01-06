@@ -19,11 +19,11 @@ featured-img:
 
 #Show categories at the end of posts
 categories:
-  active: true
+  active: false
 
 #Show date and read time under the post title
 date-under-post:
-  active: true
+  active: false
 
 #Use MathJAX
 mathjax:
@@ -32,7 +32,7 @@ mathjax:
 #Show related posts based on categories
 related-posts:
   active: true
-  title: "You May Also Enjoy"
+  title: "To infinite and beyond"
 
 #Comments
 comments: true
