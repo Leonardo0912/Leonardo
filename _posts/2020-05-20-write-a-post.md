@@ -1,25 +1,27 @@
 ---
-title: Getting Started
+title: Do you like, too?
 layout: post
 #categories: [How-To, Markdown]
-#image: /assets/img/airplane.jpg
+image: /assets/img/Cocktail.jpg
 #gif: mygif
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SV-xumG8F1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 description: "Let's get this theme to work!"
-customexcerpt: "Learn how to write a post in YAMT."
+customexcerpt: "I wanna drink Acohol, but it must be fun"
 ---
 
-### Front Matter
-Example of a full Front Matter:
-{% highlight yaml %}
-title: Hello World   
-layout: post
-categories: [Hello, World]
-tags: [hello, world]
-image: /assets/img/helloworld.jpg
-gif: mygif (Only write the name of the file. No extension. The files needs to be in "/assets/gif")
-description: "Say hello to the world!"
-customexcerpt: "Custom excerpt for the homepage"
-{% endhighlight %}
+### Leonardo's Bar
+These are cocktail menus at my home. 
+I hope you know this joy.
+image: /assets/img/Menu1.jpg
+image: /assets/img/Menu2.jpg
 
-Tags can be used but are pretty much useless, as related posts use categories.
+#{% highlight yaml %}
+#title: Hello World   
+#layout: post
+#categories: [Hello, World]
+#tags: [hello, world]
+#image: /assets/img/helloworld.jpg
+#gif: mygif (Only write the name of the file. No extension. The files needs to be in "/assets/gif")
+#description: "Say hello to the world!"
+#customexcerpt: "Custom excerpt for the homepage"
+#{% endhighlight %}
