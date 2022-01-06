@@ -17,21 +17,13 @@ paginate: 3
 paginate_path: "/page:num/"
 
 #SEO
-twitter:
-  username: pandasekh
-  card: summary
 instagram:
   username: leonardo.park
   card : summary
-facebook:
-  app_id: # Facebook app ID for Facebook insights
-  publisher: # Facebook page URL or ID of the publishing entity
-  admins: # Facebook user ID for domain insights linked to a personal account
 logo: /assets/img/Leonardo.jpg
 social:
   links: #List your social links here
-    - https://twitter.com/PandaSekh
-    - https://www.github.com/pandasekh
+    - https://github.com/Leonardo0912
     - https://www.instagram.com/leonardo.park/
 webmaster_verifications:
   google: 
