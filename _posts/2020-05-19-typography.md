@@ -1,10 +1,9 @@
 ---
-title: Typography
+title: Find Freedom
 layout: post
-categories: [Typography, Markdown]
-image: /assets/img/rose.jpg
-description: "Basic typography and styling for your posts."
-customexcerpt: "Basic and advanced typography in YAMT."
+image: /assets/img/Busan.jpg
+description: "One of the best place"
+customexcerpt: "My one of the best place is Busan"
 ---
 Reference: [GitHub flavored Markdown](https://help.github.com/en/github/writing-on-github).
 
