@@ -19,11 +19,11 @@ paginate_path: "/page:num/"
 instagram:
   username: leonardo.park
   card : summary
-logo: /assets/img/Leonardo.jpg
 social:
   links: #List your social links here
     - https://github.com/Leonardo0912
     - https://www.instagram.com/leonardo.park/
+    - https://www.youtube.com/watch?v=SV-xumG8F1g
 webmaster_verifications:
   google: 
   bing: 
