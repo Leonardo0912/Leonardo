@@ -1,22 +1,23 @@
 ---
 title: Why not enjoy your life!
 layout: post
-#categories: [Typography, Markdown, Tips]
 image: /assets/img/Leonardo.jpg
 description: "Welcome to Leo's Life - I like hiphop life"
 ---
 
 Welcome to Leo's Life - I like hiphop life.
-I often enjoy Hiphop dance / Beatbox / Rap / Make a cocktail.
-I'll tell you more about my life. How about enjoy your life?! 
+I often enjoy Hiphop dance, Beatbox, Rap, Making cocktail.
+It's very crucial to enjoy hobbies cuz the thought is fun gives you energy.
+I'll tell you more about my overall life. How about enjoy your life?! 
+
 
 * hello
 {:toc}
 
 ## Career
 - (2013-2016) Seoul Robot Meister High-school
-- (2015) Samsung Intern 
-- (2016~) Samsung AudioG Engineer
+- (2015) Samsung Intern, Suwon
+- (2016~) Samsung AudioG Engineer, Suwon
 - (2021~) Ajou University Integrative Systems Engineering
 
 ## Awards
