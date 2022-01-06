@@ -7,25 +7,29 @@ description: "Welcome to Leo's Life - I like hiphop life"
 ---
 
 Welcome to Leo's Life - I like hiphop life.
-Often enjoy Hiphop dance / Beatbox / Rap / Make a cocktail
-How about enjoy your life?! I'll tell you more about my life.
+I often enjoy Hiphop dance / Beatbox / Rap / Make a cocktail.
+I'll tell you more about my life. How about enjoy your life?! 
 
 * hello
 {:toc}
 
-## Features 
-- Minimal and clean design.
-- Fully modular: activate and load only what you really need.
-- Works great on mobile and smaller screens.
-- Supports [Disqus](https://disqus.com/) comments activated only on button press, if you activate them.
-- [Google Analytics](https://www.google.com/analytics/) support.
-- [Open Graph](https://ogp.me/) and [Twitter Cards](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started) support to better index the website content on search engines and social networks.
-- [MathJAX](https://www.mathjax.org/) and [LaTeX](https://www.latex-project.org/) optional support. Write beautiful math!
-- [RSS](https://github.com/jekyll/jekyll-feed) support.
-- Beautiful [Syntax Highlight](https://yamt.netlify.app/2020/05/19/special-formatting.html#syntax-highlight). Write some code and show it in a graceful way.
+## Career
+- (2013-2016) Seoul Robot Meister High-school
+- (2015) Samsung Intern 
+- (2016~) Samsung AudioG Engineer
+- (2021~) Ajou University Integrative Systems Engineering
 
-## Installation
-[Read here](https://github.com/PandaSekh/Jekyll-YAMT#installation).
+## Awards
+- Local Skills Competetion 3rd - Mobile Robotics
+- World Skills Competetion 4th - Mobile Robotics
 
-## Customization
-[Read here](https://github.com/PandaSekh/Jekyll-YAMT#customize).
+## Certificate
+- Network manager lv2
+- PC manager lv2
+- Computer utilization lv2
+- Information processing technician
+- Electronic calculator technician
+- Electronic device technician
+- Production automation technician
+- Information device management technician
+- e-Test Professionals (All)
