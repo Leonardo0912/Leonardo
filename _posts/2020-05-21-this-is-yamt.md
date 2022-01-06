@@ -1,12 +1,14 @@
 ---
-title: This is YAMT!
+title: Why not enjoy your life!
 layout: post
 categories: [Typography, Markdown, Tips]
-image: /assets/img/logo.jpg
-description: "Welcome to YAMT - Yet Another Minimal Theme."
+image: /assets/img/Leonardo.jpg
+description: "Welcome to Leo's Life - I like hiphop life"
 ---
 
-Welcome to YAMT - Yet Another Minimal Theme. YAMT is a minimal Jekyll theme focused on simplicity and ease-of-use. It has great modularity, allowing you to easily decide what you actually want on your website.
+Welcome to Leo's Life - I like hiphop life.
+Often enjoy Hiphop dance / Beatbox / Rap / Make a cocktail
+How about enjoy your life?! I'll tell you more about my life.
 
 * hello
 {:toc}
