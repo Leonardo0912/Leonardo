@@ -2,4 +2,4 @@ pages:
   - {name: 'About', url: 'about.html'}
   - {name: 'Contact', url: 'contact.html'}
   - {name: 'Summary', url: 'archive.html'}
-  - {name: 'GitHub', url: 'https://github.com/Leonardo0912/Leonardo'}
+  - {name: 'GitHub', url: 'https://github.com/Leonardo0912'}
