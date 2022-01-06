@@ -1,5 +1,5 @@
 ---
-title: Do you like, too?
+title: Do you like, cocktail?
 layout: post
 image: /assets/img/Cocktail.jpg
 
