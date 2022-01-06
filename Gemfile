@@ -12,4 +12,4 @@ gem 'jekyll-feed'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 
-gem 'Leonardo'
+gem 'jekyll-yamt'
