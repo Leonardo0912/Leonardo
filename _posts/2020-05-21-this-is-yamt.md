@@ -16,13 +16,17 @@ I'll tell you more about my overall life. How about enjoy your life?!
 
 ## Career
 - (2013-2016) Seoul Robot Meister High-school
-- (2015) Samsung Intern, Suwon
-- (2016~) Samsung AudioG Engineer, Suwon
-- (2021~) Ajou University Integrative Systems Engineering
+- (2015) Samsung Elec. Intern
+- (2016~) Samsung Elec. MX Department. AudioG Engineer
+- (2021~) Ajou University. Integrative Systems Engineering
 
 ## Awards
-- Local Skills Competetion 3rd - Mobile Robotics
-- World Skills Competetion 4th - Mobile Robotics
+- Local Skills Competetion 3rd - Mobile Robotics (C/C++)
+- World Skills Competetion 4th - Mobile Robotics (C/C++)
+- IT Convergence Creative Idea Contest 3rd - Vehicle climate controller
+- Korean Information Olypiad (High-school part) Bronze (C/C++)
+- Algorithm Competetion 2nd (C/C++)
+- National Mobile Robot Competetion
 
 ## Certificate
 - Network manager lv2
