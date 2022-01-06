@@ -17,5 +17,6 @@ layout: post
 image: /assets/img/Menu1.jpg
 
 description: "Cocktail"
+customexcerpt: "hi"
 ---
 
