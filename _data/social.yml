@@ -4,5 +4,5 @@
 
 social:
   - {icon: 'instagram', type: "brand", link: 'https://www.instagram.com/leonardo.park/'}
-  
+  - {icon: 'youtube', type: "brand", link: 'https://www.youtube.com/watch?v=SV-xumG8F1g'}
   - {icon: 'envelope', type: "solid", link: 'mailto:ch01224.park@samsung.com'}
