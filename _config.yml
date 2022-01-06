@@ -6,7 +6,6 @@ baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.
 author:
   name: "Leonardo"
   email: "ch01224.park@samsung.com"
-  url: "https://alessiofranceschi.me"
 permalink: /:year/:month/:day/:title:output_ext
 
 #Plugins
