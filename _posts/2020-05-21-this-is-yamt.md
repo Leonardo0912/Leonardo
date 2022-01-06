@@ -1,7 +1,7 @@
 ---
 title: Why not enjoy your life!
 layout: post
-categories: [Typography, Markdown, Tips]
+#categories: [Typography, Markdown, Tips]
 image: /assets/img/Leonardo.jpg
 description: "Welcome to Leo's Life - I like hiphop life"
 ---
