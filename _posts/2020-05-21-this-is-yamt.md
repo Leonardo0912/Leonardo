@@ -5,10 +5,11 @@ image: /assets/img/Leonardo.jpg
 description: "Welcome to Leo's Life - I like hiphop life"
 ---
 
-Welcome to Leo's Life - I like hiphop life.
-I often enjoy Hiphop dance, Beatbox, Rap, Making cocktail.
-It's very crucial to enjoy hobbies cuz the thought is fun gives you energy.
-I'll tell you more about my overall life. How about enjoy your life?! 
+[CHUF 4기 공연영상](https://www.youtube.com/watch?v=SV-xumG8F1g) </br>
+Welcome to Leo's Life - First, plz watch the video lol </br>
+I really like hiphop, cocktail, travel </br>
+It's just my introduction profile </br>
+if you click the pic, you can see my overall life </br>
 
 
 * hello
