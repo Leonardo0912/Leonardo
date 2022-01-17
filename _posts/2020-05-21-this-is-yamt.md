@@ -3,9 +3,9 @@ title: Why not enjoy your life!
 layout: post
 image: /assets/img/Leonardo.jpg
 description: "Welcome to Leo's Life - I like hiphop life"
+---
 
 [CHUF 4기 공연영상](https://www.youtube.com/watch?v=SV-xumG8F1g)  
----
 Welcome to Leo's Life - First, plz watch the video lol  
 I really like hiphop, cocktail, travel  
 It's just my introduction profile  
