@@ -12,7 +12,7 @@ I'll tell you more about my overall life.
 How about enjoy your life?!  
 
 
-[**CHUF 4기 공연영상**](https://www.youtube.com/watch?v=SV-xumG8F1g"필수시청") → ~~'ChanHee's Urban Family'~~
+[**CHUF 4기 공연영상**](https://www.youtube.com/watch?v=SV-xumG8F1g"필수시청") → _~~ChanHee's Urban Family~~_
 [![CHUF](/assets/img/CHUF4.jpg)](https://www.youtube.com/watch?v=SV-xumG8F1g)
 .    
 .    
