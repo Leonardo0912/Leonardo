@@ -5,15 +5,19 @@ image: /assets/img/Leonardo.jpg
 description: "Welcome to Leo's Life - I like hiphop life"
 ---
 
-Welcome to Leo's Life - I like **hiphop life**.  
+Welcome to Leo's Life - **I like hiphop life**.  
 I often enjoy Hiphop dance, Beatbox, Rap, Making cocktail.  
 It's very crucial to enjoy hobbies cuz the thought is fun fives you energy.  
 I'll tell you more about my overall life.  
-How about enjoy your life?!
+How about enjoy your life?!  
+
 
 [**CHUF 4기 공연영상**](https://www.youtube.com/watch?v=SV-xumG8F1g"필수시청")  
 
-    Under is my overall profile
+  
+  
+Under is my overall profile  
+
 
 ## Career
 - (2013-2016) Seoul Robot Meister High-school
