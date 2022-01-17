@@ -13,7 +13,7 @@ How about enjoy your life?!
 
 
 [**CHUF 4기 공연영상**](https://www.youtube.com/watch?v=SV-xumG8F1g"필수시청")  
-![CHUF](/assets/img/CHUF4.jpg)
+[![CHUF](/assets/img/CHUF4.jpg)](https://www.youtube.com/watch?v=SV-xumG8F1g)
 .    
 .    
 .  
