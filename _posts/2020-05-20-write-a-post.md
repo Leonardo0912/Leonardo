@@ -4,7 +4,7 @@ layout: post
 image: /assets/img/Cocktail.jpg
 
 description: "Cocktail"
-customexcerpt: "I wanna drink Acohol, but it must be fun"
+customexcerpt: "알코올과 적당한 취기를 좋아하지만, 맛있으면 더 좋잖아!"
 ---
 
 If u come my home, u can drink cocktails.  
