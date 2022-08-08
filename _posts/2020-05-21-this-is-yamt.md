@@ -34,6 +34,9 @@ description: "Welcome to Leo's Life - I like hiphop life"
 - 알고리즘 경진대회 2nd (C/C++)
 - 모바일로봇 경진대회 장려상
 
+## Patent
+- 단말 스피커 표면발열제어
+
 ## Certificate
 - 네트워크 관리사 2급
 - PC정비사 2급
