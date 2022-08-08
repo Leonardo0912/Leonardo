@@ -2,7 +2,8 @@
 title: Welcome to Leo's Life!
 layout: post
 image: /assets/img/Leonardo.jpg
-description: "Welcome to Leo's Life - I like hiphop life"
+description: "My profile"
+customexcerpt: "Welcome to Leo's Life - 사진클릭!"
 ---
 
 **Welcome to Leo's life!**   
