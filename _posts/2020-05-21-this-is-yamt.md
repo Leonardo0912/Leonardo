@@ -21,26 +21,26 @@ description: "Welcome to Leo's Life - I like hiphop life"
 
 
 ## Career
-- (2013-2016) Seoul Robot Meister High-school
-- (2015) Samsung Elec. Intern
-- (2016~) Samsung Elec. MX Department. AudioG Engineer
-- (2021~) Ajou University. Integrative Systems Engineering
+- (2013-2016) 서울로봇마이스터고등학교
+- (2015) 삼성전자 인턴
+- (2016~) 삼성전자 MX사업부 Audio그룹 개발자
+- (2021~) 아주대학교 융합시스템공학과
 
 ## Awards
-- Local Skills Competetion 3rd - Mobile Robotics (C/C++)
-- World Skills Competetion 4th - Mobile Robotics (C/C++)
-- IT Convergence Creative Idea Contest 3rd - Vehicle climate controller
-- Korean Information Olypiad (High-school part) Bronze (C/C++)
-- Algorithm Competetion 2nd (C/C++)
-- National Mobile Robot Competetion
+- 모바일 로보틱스 지방대회 3rd (C/C++)
+- 모바일 로보틱스 전국대회 4th (C/C++)
+- IT 융합창작아이디어 대회 3rd - 차량 실내 온도 조절기
+- 정보올림피아드 고등부 3rd (C/C++)
+- 알고리즘 경진대회 2nd (C/C++)
+- 모바일로봇 경진대회 장려상
 
 ## Certificate
-- Network manager lv2
-- PC manager lv2
-- Computer utilization lv2
-- Information processing technician
-- Electronic calculator technician
-- Electronic device technician
-- Production automation technician
-- Information device management technician
+- 네트워크 관리사 2급
+- PC정비사 2급
+- 컴퓨터활용능력 2급
+- 정보처리 기능사
+- 전자계산기 기능사
+- 전자기기 기능사
+- 생산자동화 기능사
+- 정보기기운용 기능사
 - e-Test Professionals (All)
