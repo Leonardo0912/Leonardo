@@ -3,13 +3,12 @@ title: Welcome to Leo's Life!
 layout: post
 image: /assets/img/Leonardo.jpg
 description: "My profile"
-customexcerpt: "Welcome to Leo's Life - 사진클릭!"
+customexcerpt: "나에 대한 얘기들이야, 사진클릭!"
 ---
 
 **Welcome to Leo's life!**   
 힙합 문화를 좋아하지만 그 중에서도 **힙합댄스**를 좋아하구, **칵테일**도 관심이 많아서 홈바도 꾸며놨어!
 새로운 사람들의 새로운 이야기를 듣는 **여행**도 너무너무 좋아해!
-내가 걸어온 길이 궁금하다면 사진을 클릭하면 돼 ㅎㅎ
 
 
 [**CHUF 4기 공연영상**](https://www.youtube.com/watch?v=SV-xumG8F1g"필수시청") ← _Click to link _
