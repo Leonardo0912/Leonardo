@@ -18,3 +18,8 @@ customexcerpt: "Some Alcohol, Some happiness"
    
 ![Menu1](/assets/img/Menu1.jpg)
 ![Menu2](/assets/img/Menu2.jpg)
+
+   
+   
+참! 내가 가장 좋아하는 칵테일은 A.M.F (Adios MotherFucker)랑, 진토닉이야!
+기회가 된다면 너도 마셔보고, 칵테일에 흥미가 생기면 좋겠어★
