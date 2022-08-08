@@ -3,6 +3,6 @@ title: Find Freedom
 layout: post
 image: /assets/img/Busan3.jpg
 description: "place"
-customexcerpt: "My one of the best place is Busan"
+customexcerpt: "내 최고의 여행지, 부산에 대해서 얘기할게"
 ---
 
