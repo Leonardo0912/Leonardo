@@ -13,7 +13,7 @@ customexcerpt: "나에 대한 얘기들이야, 사진클릭!"
 
 ### Why Leo?
 이 질문이 생각보다 많은데..^^;
-별건 없고 그냥 내가 지은 스페인 이름이야!
+별건 없고 그냥 내가 지은 스페인어 이름이야!
 어려서부터 쭉 써오다보니 계속 사용하고 있어.
 
 ### Hobby!
@@ -25,7 +25,7 @@ customexcerpt: "나에 대한 얘기들이야, 사진클릭!"
 ![Perfo](/assets/img/Performance.jpg)   
 
 
-
+   
 - **Cocktail**
 
 ![CocktailMenu](/assets/img/Study.jpg)
