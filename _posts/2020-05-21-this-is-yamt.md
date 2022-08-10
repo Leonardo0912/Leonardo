@@ -12,16 +12,32 @@ customexcerpt: "나에 대한 얘기들이야, 사진클릭!"
 - ENTP(J)
 
 ### Hobby!
-- Hiphop Dance
-- Cocktail
-- Go Trip!
+- **Hiphop Dance**
 
 [**CHUF 4기 공연영상**](https://www.youtube.com/watch?v=SV-xumG8F1g"필수시청") ← _Click to link _
 [![CHUF](/assets/img/CHUF4.jpg)](https://www.youtube.com/watch?v=SV-xumG8F1g)
+
+![Perfo](/assets/img/Performance.jpg)   
+
+
+
+- **Cocktail**
+
+![CocktailMenu](/assets/img/Study.jpg)
+
+![Making](/assets/img/Making.jpg)   
+
+
+
+- **Go Trip!**
+
+![Holdom](/assets/img/Holdom.jpg)
+
+![Borakai](/assets/img/Borakai.jpg)   
+
 .    
 .    
-.  
-아래는 내 인생의 전반적인 내용들이야!
+.   
 
 
 ## Career
