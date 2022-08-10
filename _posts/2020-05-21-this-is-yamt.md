@@ -3,13 +3,16 @@ title: Welcome to Leo's Life!
 layout: post
 image: /assets/img/Leonardo.jpg
 description: "My profile"
-customexcerpt: "나에 대한 얘기들이야, 사진클릭!"
+customexcerpt: "나에 대한 얘기들이야! 사진클릭!"
 ---
 
+
 ### Profile
-- 박찬희 (Leonardo)
+- 박찬희(Leonardo)
 - 1997.09.12 대구 출생!
 - ENTP(J)
+- 서동현(Big Naughty) 노래bb
+- "No Cross, No Crown"
 
 ### Why Leo?
 이 질문이 생각보다 많은데..^^;
